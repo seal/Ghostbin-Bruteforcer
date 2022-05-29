@@ -19,6 +19,11 @@ var (
 	total   int
 )
 
+/*
+To do:
+Linear checking
+Add proxy support ( create lib for connecting)
+*/
 func main() {
 	fmt.Println("github.com/seal")
 	Default()
