@@ -23,6 +23,11 @@ var (
 	generated string
 )
 
+/*
+To do:
+Linear checking
+Add proxy support ( create lib for connecting)
+*/
 func main() {
 	CallClear()
 	fmt.Println("github.com/seal")
